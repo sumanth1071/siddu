@@ -10,4 +10,8 @@ try:
 		os.replace(source,destination)
 		print(source+"was moved")
 except FileNotFoundError:
+<<<<<<< HEAD
 	print(source+"was not found")
+=======
+	print(source+"was not found")
+>>>>>>> parent of 89326e1 (Revert "this my python programming")

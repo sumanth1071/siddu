@@ -12,4 +12,8 @@ try:
 
 except FileNotFoundError:
 	
+<<<<<<< HEAD
 	print("That file was not found :(")
+=======
+	print("That file was not found :(")
+>>>>>>> parent of 89326e1 (Revert "this my python programming")
