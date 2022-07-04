@@ -1,4 +1,4 @@
-# duck typing = concept wjhere class of an object is less important than the methods and objects
+# duck typing = concept where class of an object is less important than the methods and objects
 # class type is not checked if minimum numnber of methods/attributes are present
 # "if it walks like a duck and it quack like a duck, then it is a duck"
 
