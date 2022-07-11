@@ -8,7 +8,7 @@ firstnameLabel = Label(window,text="First name:").grid(row=0,column=0)
 firstnameEntry = Entry(window).grid(row=0,column=1)
 
 lastnameLabel = Label(window,text="First name:").grid(row=1,column=0)
-lastnameEntsiddury = Entry(window).grid(row=1,column=1)
+lastnameEntry = Entry(window).grid(row=1,column=1)
 
 emailLabel = Label(window,text="First name:").grid(row=2,column=0)
 emailEntry = Entry(window).grid(row=2,column=1)
