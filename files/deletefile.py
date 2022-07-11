@@ -1,12 +1,14 @@
 import os
 import shutil
+	
+from matplotlib import path
 
 # file = "demo2.txt"
 # path = "empty_folder"
 path1 = "empty_folder1"
 
 try:	
-	os.remove(path)		#delete a file
+	os.remove(path1)		#delete a file
 	# os.rmdir(path)		#delete an empty directory
 	# shutil.rmtree(path1)  #delete a directory containing files
 
